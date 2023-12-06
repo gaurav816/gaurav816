@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 
-- 🔭 I’m currently working on [Youtube Real time Video-Processing-Service](https://github.com/gaurav816/youtube-project)
+- 🔭 I’m currently working on [Youtube Video-Processing-Service](https://github.com/gaurav816/youtube-project)
 
 - 🌱 I’m currently learning **Advanced Backend and System design**
 
