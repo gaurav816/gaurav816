@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Advanced Backend and System design**
 
-- 💬 Ask me about **System design and MERN**
+- 💬 Ask me about **System design, MERN and Next.js**
 
 - 📫 How to reach me **aurav123@gmail.com**
 
